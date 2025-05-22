@@ -1,0 +1,26 @@
+{
+  "name": "tuio",
+  "description": "Updated version of the Tuio.js server. Bridges OSC to WebSocket using Socket.IO v4 for multitouch and tangible interaction in web applications.",
+  "version": "2.0.0",
+  
+  "dependencies": {
+    "jspack": "0.0.4",
+    "socket.io": "^4.8.1"
+  },
+  "keywords": [
+    "tuio",
+    "osc",
+    "touch",
+    "multitouch",
+    "tangible"
+  ],
+  "main": "index",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "GPL-3.0-or-later"
+}
